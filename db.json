@@ -1,0 +1,70 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "shafi",
+      "place": "musheerabad place",
+      "phone": "9600789234"
+    },
+    {
+      "id": "2",
+      "name": "Rahul Verma",
+      "place": "Delhi",
+      "phone": "9876543210"
+    },
+    {
+      "id": "3",
+      "name": "Anjali Sharma",
+      "place": "Mumbai",
+      "phone": "8123456789"
+    },
+    {
+      "id": "4",
+      "name": "Aman Khan",
+      "place": "Bangalore",
+      "phone": "7894561230"
+    },
+    {
+      "id": "5",
+      "name": "Priya Singh",
+      "place": "Chennai",
+      "phone": "7000123456"
+    },
+    {
+      "id": "6",
+      "name": "Ravi Teja",
+      "place": "Vijayawada",
+      "phone": "9004567891"
+    },
+    {
+      "id": "7",
+      "name": "Fatima Noor",
+      "place": "Lucknow",
+      "phone": "8080808080"
+    },
+    {
+      "id": "8",
+      "name": "Arjun Reddy",
+      "place": "Pune",
+      "phone": "9988776655"
+    },
+    {
+      "id": "9",
+      "name": "Meera Joshi",
+      "place": "Kolkata",
+      "phone": "8877665544"
+    },
+    {
+      "id": "13",
+      "name": "Syed Ibrahim ",
+      "place": "hyd",
+      "phone": "1234567790"
+    },
+    {
+      "id": "12",
+      "name": "shahida",
+      "place": "gutta",
+      "phone": "123456"
+    }
+  ]
+}
